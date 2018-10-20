@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+@import "~angular-calendar/css/angular-calendar.css";
+@import "assets/css/nifty.css";
+@import "assets/icons/solid-icons/premium-solid-icons.css";
+@import "assets/icons/line-icons/premium-line-icons.css";
